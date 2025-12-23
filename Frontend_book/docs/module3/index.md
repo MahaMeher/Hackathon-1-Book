@@ -12,9 +12,9 @@ NVIDIA Isaac is a comprehensive robotics platform that combines simulation, perc
 
 ## Chapters
 
-1. [NVIDIA Isaac Sim Overview](./chapter1-isaac-sim-overview) - Learn about photorealistic simulation, synthetic data generation, and perception model training
-2. [Isaac ROS for Perception & Localization](./chapter2-isaac-ros-perception) - Explore hardware-accelerated vision pipelines and Visual SLAM
-3. [Navigation & Motion Planning](./chapter3-navigation-motion-planning) - Understand Nav2 architecture and bipedal humanoid navigation
+1. [NVIDIA Isaac Sim Overview](./chapter1-isaac-sim-overview.md) - Learn about photorealistic simulation, synthetic data generation, and perception model training
+2. [Isaac ROS for Perception & Localization](./chapter2-isaac-ros-perception.md) - Explore hardware-accelerated vision pipelines and Visual SLAM
+3. [Navigation & Motion Planning](./chapter3-navigation-motion-planning.md) - Understand Nav2 architecture and bipedal humanoid navigation
 
 ## Learning Objectives
 

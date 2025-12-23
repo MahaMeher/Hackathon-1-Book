@@ -12,9 +12,9 @@ Vision-Language-Action (VLA) systems represent the cutting edge of robotics, whe
 
 ## Chapters
 
-1. [Voice-to-Action Interfaces](./chapter1-voice-to-action) - Learn about voice command pipelines, speech-to-text using Whisper, and mapping voice input to robot intents
-2. [Cognitive Planning with LLMs](./chapter2-cognitive-planning) - Explore translating natural language into action plans and task decomposition into ROS 2 actions
-3. [Capstone – The Autonomous Humanoid](./chapter3-capstone-autonomous-humanoid) - Understand end-to-end system architecture with navigation, perception, and manipulation flow
+1. [Voice-to-Action Interfaces](./chapter1-voice-to-action.md) - Learn about voice command pipelines, speech-to-text using Whisper, and mapping voice input to robot intents
+2. [Cognitive Planning with LLMs](./chapter2-cognitive-planning.md) - Explore translating natural language into action plans and task decomposition into ROS 2 actions
+3. [Capstone – The Autonomous Humanoid](./chapter3-capstone-autonomous-humanoid.md) - Understand end-to-end system architecture with navigation, perception, and manipulation flow
 
 ## Learning Objectives
 
