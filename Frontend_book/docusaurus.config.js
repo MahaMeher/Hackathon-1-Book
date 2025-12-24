@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-ros2-book.github.io', // Replace with your site's URL
+  url: 'https://hackathon-1-book-84ym.vercel.app/', // Replace with your site's URL
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
