@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://hackathon-1-book-84ym.vercel.app',
+  url: 'https://hackathon-1-book-chi.vercel.app',
   baseUrl: '/',
   trailingSlash: false,
 
