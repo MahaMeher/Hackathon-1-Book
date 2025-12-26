@@ -20,17 +20,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://hackathon-1-book-84ym.vercel.app/', // Replace with your site's URL
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://hackathon-1-book-84ym.vercel.app',
   baseUrl: '/',
+  trailingSlash: false,
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-username', // Usually your GitHub org/user name.
-  projectName: 'ros2-book', // Usually your repo name.
-  deploymentBranch: 'gh-pages', // Branch to deploy to
-  trailingSlash: false, // Set to true or false to enable or disable trailing slashes
 
   onBrokenLinks: 'throw',
 
